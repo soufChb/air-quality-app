@@ -90,6 +90,6 @@ Challege proposé par : Ticatag.
 
 Développé par Soufiane CHAIEB.
 
-Lien vers le repo GitHub : [github.com/ton-utilisateur/air-quality-api](https://github.com/ton-utilisateur/air-quality-api)
+Lien vers le repo GitHub : [github.com/ton-utilisateur/air-quality-api](https://github.com/soufChb/air-quality-app)
 
 
